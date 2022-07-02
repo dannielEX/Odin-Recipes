@@ -1,3 +1,5 @@
 # Odin-Recipes
-Basic HTML Website
-On this project, I will be building a basic recipe website by making use of the HTML basics. 
+
+<p>Basic HTML Website</p>
+
+<p>I used Odin's special recipes in this project, to build a basic HTML recipe website</p>  
